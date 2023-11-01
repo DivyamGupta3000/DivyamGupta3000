@@ -5,6 +5,13 @@
 
 - 🌱 I’m currently learning **GCP Platform, Compute Instance, BigQuery**
 
+- 🛠️ **Languages & Frameworks**: C++, Python ,HTML, CSS, SQL
+- 💻 **Front-End Development**: Responsive web design, UI/UX design, Single Page Applications (SPAs)
+- 🚀 **Back-End Development:**  RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
+- 🔧 **Tools & Technologies**: Git, VSCode, Azure , GCP
+- 🌐 **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- 📚 **Learning Journey**: Constantly exploring new technologies and frameworks to expand my skill set and improve my development capabilities.
+
 - 📫 How to reach me **divyamgupta3000@gmail.com**
 
 
