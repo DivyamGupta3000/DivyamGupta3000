@@ -28,10 +28,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DivyamGupta3000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-(https://holopin.me/divyamgupta3000)](https://holopin.io/@divyamgupta3000)
+## Hacktoberfest 2023
+![Screenshot (13) (1)](https://github.com/DivyamGupta3000/DivyamGupta3000/assets/108221297/bdf60426-dd46-421d-a799-3d7a10ad0404)
+
+
+![Screenshot (14)](https://github.com/DivyamGupta3000/DivyamGupta3000/assets/108221297/e849a060-f9f3-44c4-965e-f5d235900b62)
 
 ### 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyamGupta3000&icon=0&color=0)](https://visitcount.itsvg.in)
