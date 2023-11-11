@@ -1,10 +1,7 @@
 # Hi there! 👋 I’m Divyam Gupta
 
 ## About Me 
-- 🔭 I’m currently working on **Data Analysis of Superstore**
-
 - 🌱 I’m currently learning **GCP Platform, Compute Instance, BigQuery**
-
 - 🛠️ **Languages & Frameworks**: C++, Python ,HTML, CSS, SQL
 - 💻 **Front-End Development**: Responsive web design, UI/UX design, Single Page Applications (SPAs)
 - 🚀 **Back-End Development:**  RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
